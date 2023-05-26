@@ -1,2 +1,17 @@
-package PACKAGE_NAME;public class Human {
+public class Human {
+    //att
+    String Name;
+    Integer Age;
+
+    //cosnt
+    public Human(){
+    }
+
+
+    //meth
+    public void talk(){
+    }
+
+
+    //getsett
 }
